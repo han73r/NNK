@@ -1,0 +1,7 @@
+Tasks:
+1. Add 3d animation (total complete) and show data from 6. (incomplete)
+2. Button to launch video (total complete)
+3. Button to launch web cam -
+4. Button to launch web page -
+5. Button to parse some data -
+6. Button to get data from scv file (half is complete) show data as table -
